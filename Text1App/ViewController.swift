@@ -22,7 +22,7 @@ class ViewController: UIViewController
     @IBOutlet weak var thanksword: UILabel!
     @IBOutlet weak var ok: UIButton!
     
-    //IBAction 定義事件程序
+    //IBAction 定義事件程序 123
     
 
     @IBAction func changUsad(_ sender: UITextField)
