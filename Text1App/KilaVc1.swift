@@ -12,7 +12,7 @@ class KilaVc1: UIViewController,UIPickerViewDataSource,
 UIPickerViewDelegate//協定不要漏打
 {
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
-        return 1 //選單數量
+        return 1 //選單數量1111
     }
 
     func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {

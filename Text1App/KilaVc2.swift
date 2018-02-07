@@ -18,7 +18,7 @@ class KilaVc2: UIViewController,UIPickerViewDataSource,UIPickerViewDelegate{
     var bb:String = "";
     
     var item:[String] = ["漢堡","紅茶"];//記錄產品
-    var price:[Int] = [35,15];//紀錄產品價格
+    var price:[Int] = [35,15];//紀錄產品價格11111
     var totalP = 0;
     var totali = " ";
     var i = 0 , j = 0,  k = 0; //紀錄 第幾次按(j) 結帳 跟 price 是否為
