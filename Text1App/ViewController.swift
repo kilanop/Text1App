@@ -12,7 +12,7 @@ import UIKit
 
 class ViewController: UIViewController
 {
-    //IBOutlet 定義物件標籤
+    //IBOutlet 定義物件標籤  123
     @IBOutlet weak var rate: UITextField! //匯率
     @IBOutlet weak var usad: UITextField! //兌換金額
     @IBOutlet weak var feeSW: UISwitch! //手續費有無
